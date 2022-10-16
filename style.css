@@ -1,5 +1,9 @@
 /* Agrega tu código aquí */
+* {
 
+    font-family:'Lucida Sans', Verdana, sans-serif
+ 
+ }
 body{
     background-color: white;
 }
